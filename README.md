@@ -2,7 +2,7 @@
 
 [Magento 2 Mega Menu](https://www.ulmod.com/magento-2-mega-menu-extension.html) is a Magento 2 extension that allows your shoppers to easily access CMS, categories, sub-categories, products, and any other pages in the shortest time.
 
-With Magento 2 Mega Menu, you can create an unlimited number of the horizontal (top), vertical (left) menus to enhance the default menu navigation of your Magento 2 store.
+With Magento 2 Mega Menu, you can create an unlimited number of the horizontal, vertical menus to enhance the default menu navigation of your Magento 2 store.
 
 <a href="https://www.ulmod.com/magento-2-mega-menu-extension.html"><img width="205" src="https://www.ulmod.com/media/wysiwyg/um-download-now1.png"></a>
 
