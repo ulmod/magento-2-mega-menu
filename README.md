@@ -22,7 +22,7 @@ content;
 
 
 <img src="https://www.ulmod.com/media/ulmod/product_content/um-megam-menu.png">
-<img src="https://www.ulmod.com/media/ulmod/product_content/um-megam-menu.png">
+<img src="https://www.ulmod.com/media/ulmod/product_content/um-megam-submenu.png">
 
 ## Other [Magento 2 Extensions](https://www.ulmod.com/magento2-extensions.html) by Ulmod
 ### Magento 2 FREE Extensions
